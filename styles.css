@@ -1,2 +1,15 @@
-
+.black-cell {
+    background-color: black;
+    color: white;
+  }
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+ table {
+    
+    width: 100%;
+    border: 1px solid black;
+  }
 /* Your CSS Code here. */
